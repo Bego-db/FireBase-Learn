@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797123335622",
+    "project_id": "fir-learn-330b4",
+    "storage_bucket": "fir-learn-330b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797123335622:android:658333d344aa9475160ec7",
+        "android_client_info": {
+          "package_name": "com.example.fb_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmoVvi6vbn2nSKzj8jDngPmjSY7_BT-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
